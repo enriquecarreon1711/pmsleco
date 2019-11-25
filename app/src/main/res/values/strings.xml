@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pmsleco</string>
+    <string name="descripcion">LogoTesoem</string>
+    <string name="pantallatableta">estamos en una tableta</string>
+    <string name="bpresiona">pulsa aqui !!!</string>
+    <string name="pantallacell">estas en un celular</string>
+</resources>
